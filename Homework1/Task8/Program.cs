@@ -11,7 +11,7 @@ namespace Task8
         static void Main(string[] args)
         {
             string a = Console.ReadLine();
-            char x = a[1];
+            char x = a[a.Length-1];
             Console.WriteLine(x);
         }
     }

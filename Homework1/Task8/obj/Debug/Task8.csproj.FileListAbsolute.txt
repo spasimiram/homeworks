@@ -3,3 +3,4 @@ C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework1\Task8\bin\Debug
 C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework1\Task8\bin\Debug\Task8.pdb
 C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework1\Task8\obj\Debug\Task8.exe
 C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework1\Task8\obj\Debug\Task8.pdb
+C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework1\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
