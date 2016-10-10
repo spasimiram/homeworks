@@ -1,0 +1,5 @@
+C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework3\Task2\bin\Debug\Task2.exe.config
+C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework3\Task2\bin\Debug\Task2.exe
+C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework3\Task2\bin\Debug\Task2.pdb
+C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework3\Task2\obj\Debug\Task2.exe
+C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework3\Task2\obj\Debug\Task2.pdb

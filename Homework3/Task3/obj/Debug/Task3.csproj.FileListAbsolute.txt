@@ -1,0 +1,6 @@
+C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework3\Task3\bin\Debug\Task3.exe
+C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework3\Task3\bin\Debug\Task3.pdb
+C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework3\Task3\obj\Debug\Task3.exe
+C:\Users\Spasimira\Desktop\GitHub\New folder\homeworks\Homework3\Task3\obj\Debug\Task3.pdb
