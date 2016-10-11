@@ -22,7 +22,7 @@ namespace Task8
             }
             Console.WriteLine("K! = {0}", bigInt1);
 
-            Console.WriteLine("enter one number. N should be bigger than K: ");
+            Console.WriteLine("enter another number: ");
             decimal bigInt2 = 1;
             int N = int.Parse(Console.ReadLine());
             while (N > 1)
